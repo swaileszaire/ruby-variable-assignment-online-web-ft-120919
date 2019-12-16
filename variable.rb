@@ -1,2 +1,3 @@
-greeting= "Hello World"
-greeting
+def greeting
+  phrase = "Hello World"
+end
