@@ -1,3 +1,1 @@
-def greeting
-  phrase = "Hello World"
-end
+ greeting = get_variable_from_file('./variable.rb', "greeting")
